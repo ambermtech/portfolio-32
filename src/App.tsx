@@ -8,7 +8,7 @@ import Footer from './components/Footer'
 export default function App() {
   return (
     <>
-      <div className="page-stripe" aria-hidden="true" />
+      {/* <div className="page-stripe" aria-hidden="true" /> */}
       <Header />
       <main>
         <Hero />

@@ -38,10 +38,12 @@ export default function Work() {
               A few recent projects I&apos;m proud of.
             </p>
           </div>
+          {/* When I have more work to show, I'll add a link to view all work
           <a href="#work" className="text-link">
             View All Work
             <ArrowIcon />
           </a>
+          */}
         </div>
 
         <div className="work__grid">
