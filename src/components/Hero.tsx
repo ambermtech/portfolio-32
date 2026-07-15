@@ -1,4 +1,4 @@
-import heroPortrait from '../assets/hero-portrait2.png'
+import heroPortrait from '../assets/hero-portrait4.png'
 import { ArrowIcon, CherryIcon, Star, WavyUnderline } from './Icons'
 
 export default function Hero() {
