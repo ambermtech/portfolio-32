@@ -18,7 +18,7 @@ export default function Hero() {
 
           <p className="hero__bio">
             I build fast, accessible, and delightful web experiences with clean
-            code and thoughtful design. 10+ years shipping products users love.
+            code and thoughtful design.
           </p>
 
           <div className="hero__actions">
